@@ -1,4 +1,4 @@
-LocationId,Location,Iso3,Time,Value
+location_Id,location,iso3,time,population
 4,Afghanistan,AFG,1990,10694796
 4,Afghanistan,AFG,2000,19542983
 4,Afghanistan,AFG,2010,28189672
@@ -943,4 +943,3 @@ LocationId,Location,Iso3,Time,Value
 894,Zambia,ZMB,2000,9891136
 894,Zambia,ZMB,2010,13792087
 894,Zambia,ZMB,2020,18927715
-1990,1990,1990,1990,1990
