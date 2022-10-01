@@ -1,4 +1,4 @@
-location_Id,location,iso3,time,population
+locationid,location,iso3,time,population
 4,Afghanistan,AFG,1990,10694796
 4,Afghanistan,AFG,2000,19542983
 4,Afghanistan,AFG,2010,28189672

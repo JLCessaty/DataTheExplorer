@@ -2,11 +2,11 @@ select * from populations;
 select * from gdp;
 select * from locations;
 
-select populations.location,populations.time,populations.population,
+select populations.locationid, populations.location,populations.iso3,populations.time,populations.population,
 gdp.gdp,locations.longitude, locations.latitude
 from populations
 join gdp
-ON populations.location = gdp.country
+ON populations.locationid = gdp.locationid
 AND populations.time = gdp.year
 join locations
-ON populations.location = locations.name;
+ON populations.locationid = locations.id;
