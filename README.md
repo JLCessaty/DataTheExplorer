@@ -38,9 +38,9 @@ We are comparing the GDP and population of different countries across several de
 
 # Research Questions to Answer
 
-1. How did national populations increase in comparison between 1980 and 2020?
+1. How did national populations increase in comparison between 1990 and 2020?
 
-2. How did national GDPs increase in comparison between 1980 and 2020?
+2. How did national GDPs increase in comparison between 1990 and 2020?
 
 3. What is the relationship between GDP growth, population growth, and population density between 1980 and 2020? 
 
