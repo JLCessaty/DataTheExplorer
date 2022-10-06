@@ -59,11 +59,11 @@ https://population.un.org/dataportalapi/api/v1/locationsWithAggregates
 
 # World Population Visualizations:
 ## 1.   Flask App:
-### World map with population layers:
-![World map with population layers](images/XXXX.png)
-
 ### World map with location markers:
-![World map with location markers](images/XXXX.png)
+![World map with location markers](Maps/static/images/map1.png)
+
+### World map with population layers:
+![World map with population layers](Maps/static/images/map2.png)
 
 ## 2.   Heat Maps:
 ### World Heat Map - GDP:
