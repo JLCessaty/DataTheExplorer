@@ -64,7 +64,9 @@ def index():
 
     # Return JSON
     #return jsonify(resultDF)
-    return jsonify(data=resultDF.to_json(orient='records'))    
+    #return jsonify(data=resultDF.to_json(orient='records'))    
+    return resultDF.to_html()  
+
 
 #################################################
 if __name__ == '__main__':
