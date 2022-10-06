@@ -60,34 +60,34 @@ https://population.un.org/dataportalapi/api/v1/locationsWithAggregates
 # World Population Visualizations:
 ## 1.   Flask App:
 ### World map with population layers:
-![World map with population layers](Images/XXXX.png)
+![World map with population layers](images/XXXX.png)
 
 ### World map with location markers:
-![World map with location markers](Images/XXXX.png)
+![World map with location markers](images/XXXX.png)
 
 ## 2.   Heat Maps:
 ### World Heat Map - GDP:
-![World Heat Map - GDP](Images/world_heatmap_gdp.png)
+![World Heat Map - GDP](images/world_heatmap_gdp.png)
 
 ### World Heat Map - Population
-![World Heat Map - Population](Images/world_heatmap_pop.png)
+![World Heat Map - Population](images/world_heatmap_pop.png)
 
 ## 3.   China Vs India - Population & GDP
-![Population & GDP Trend](Images/China_India_Trend_plot.png)
+![Population & GDP Trend](images/China_India_Trend_plot.png)
 
-![Population & GDP Growth Rate Trend](Images/China_India_GrowthTrend_plot.png)
+![Population & GDP Growth Rate Trend](images/China_India_GrowthTrend_plot.png)
 
 ## 4.   Trend Analysis on Top 10 Populated Countries - 
 ### `China, India, United States of America, Indonesia, Pakistan, Brazil, Nigeria, Bangladesh, Russian Federation, Mexico` 
 
 
-![Population Trend](Images/Trend_Top10population.png)
+![Population Trend](images/Trend_Top10population.png)
 
-![GDP Trend](Images/Trend_GDP_Top10countries.png)
+![GDP Trend](images/Trend_GDP_Top10countries.png)
 
-![Population Growth Rate Trend](Images/Trend_PopGrowth_Top10countries.png)
+![Population Growth Rate Trend](images/Trend_PopGrowth_Top10countries.png)
 
-![GDP Growth Rate Trend](Images/Trend_GdpGrowth_Top10countries.png)
+![GDP Growth Rate Trend](images/Trend_GdpGrowth_Top10countries.png)
 
 
 
