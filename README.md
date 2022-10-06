@@ -70,7 +70,7 @@ https://population.un.org/dataportalapi/api/v1/locationsWithAggregates
 ![World Heat Map - GDP](images/world_heatmap_gdp.png)
 
 ### World Heat Map - Population
-![World Heat Map - Population](images/world_heatmap_pop.png)
+![World Heat Map - Population](images/world_heatmap_Pop.png)
 
 ## 3.   China Vs India - Population & GDP
 ![Population & GDP Trend](images/China_India_Trend_plot.png)
